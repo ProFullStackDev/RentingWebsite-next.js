@@ -1,8 +1,5 @@
 # Renting website developed by Kevin
-This web app helps you in locating all the hotel's and filter out the hotel's based on your requirement and budget. Created using React, Contentful and deployed on Netlify.
-
-#### Home Page
-![Home Page](assets/screenshot-1.PNG)
+This web app helps you rent anything in the local area and filter out the hotel's based on your requirement and budget. Created using React, Contentful and deployed on Netlify.
 
 #### Rooms Pages
 ![Rooms Page](assets/screenshot-2.PNG)
